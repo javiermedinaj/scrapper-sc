@@ -1,0 +1,137 @@
+[
+  {
+    "homeTeam": "Argentinos Jrs.",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/3216/image/small",
+    "awayTeam": "Aldosivi",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/36836/image/small",
+    "date": "14/03/25",
+    "time": "19:00",
+    "round": 10
+  },
+  {
+    "homeTeam": "Godoy Cruz",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/6074/image/small",
+    "awayTeam": "San Lorenzo",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/3201/image/small",
+    "date": "14/03/25",
+    "time": "21:00",
+    "round": 10
+  },
+  {
+    "homeTeam": "Dep. Riestra",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/189723/image/small",
+    "awayTeam": "River",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/3211/image/small",
+    "date": "15/03/25",
+    "time": "16:00",
+    "round": 10
+  },
+  {
+    "homeTeam": "Estudiantes",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/3206/image/small",
+    "awayTeam": "Newell's",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/3212/image/small",
+    "date": "15/03/25",
+    "time": "18:30",
+    "round": 10
+  },
+  {
+    "homeTeam": "Rosario Central",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/3217/image/small",
+    "awayTeam": "Gimnasia",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/3205/image/small",
+    "date": "15/03/25",
+    "time": "18:30",
+    "round": 10
+  },
+  {
+    "homeTeam": "Huracán",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/7629/image/small",
+    "awayTeam": "Ind. Rivadavia",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/36842/image/small",
+    "date": "15/03/25",
+    "time": "21:00",
+    "round": 10
+  },
+  {
+    "homeTeam": "Sarmiento",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/42338/image/small",
+    "awayTeam": "Talleres",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/3210/image/small",
+    "date": "15/03/25",
+    "time": "21:00",
+    "round": 10
+  },
+  {
+    "homeTeam": "Independiente",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/3209/image/small",
+    "awayTeam": "Racing",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/3215/image/small",
+    "date": "16/03/25",
+    "time": "16:00",
+    "round": 10
+  },
+  {
+    "homeTeam": "Boca Juniors",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/3202/image/small",
+    "awayTeam": "Def y Justicia",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/36839/image/small",
+    "date": "16/03/25",
+    "time": "18:30",
+    "round": 10
+  },
+  {
+    "homeTeam": "Belgrano",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/3203/image/small",
+    "awayTeam": "Barracas",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/65668/image/small",
+    "date": "16/03/25",
+    "time": "21:00",
+    "round": 10
+  },
+  {
+    "homeTeam": "Lanús",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/3218/image/small",
+    "awayTeam": "Instituto",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/4937/image/small",
+    "date": "16/03/25",
+    "time": "21:00",
+    "round": 10
+  },
+  {
+    "homeTeam": "Unión de Santa Fe",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/3204/image/small",
+    "awayTeam": "Banfield",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/3219/image/small",
+    "date": "17/03/25",
+    "time": "19:00",
+    "round": 10
+  },
+  {
+    "homeTeam": "Tigre",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/7628/image/small",
+    "awayTeam": "Central Córdoba",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/65676/image/small",
+    "date": "17/03/25",
+    "time": "19:00",
+    "round": 10
+  },
+  {
+    "homeTeam": "Atlético Tucumán",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/36833/image/small",
+    "awayTeam": "Vélez Sarsfield",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/3208/image/small",
+    "date": "17/03/25",
+    "time": "21:15",
+    "round": 10
+  },
+  {
+    "homeTeam": "San Martín",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/7772/image/small",
+    "awayTeam": "Platense",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/36837/image/small",
+    "date": "17/03/25",
+    "time": "21:15",
+    "round": 10
+  }
+]

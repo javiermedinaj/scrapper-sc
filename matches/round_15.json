@@ -1,0 +1,137 @@
+[
+  {
+    "homeTeam": "Aldosivi",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/36836/image/small",
+    "awayTeam": "Banfield",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/3219/image/small",
+    "date": "27/04/25",
+    "time": "09:00",
+    "round": 15
+  },
+  {
+    "homeTeam": "Barracas",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/65668/image/small",
+    "awayTeam": "Unión de Santa Fe",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/3204/image/small",
+    "date": "27/04/25",
+    "time": "09:00",
+    "round": 15
+  },
+  {
+    "homeTeam": "Belgrano",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/3203/image/small",
+    "awayTeam": "Argentinos Jrs.",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/3216/image/small",
+    "date": "27/04/25",
+    "time": "09:00",
+    "round": 15
+  },
+  {
+    "homeTeam": "Independiente",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/3209/image/small",
+    "awayTeam": "Dep. Riestra",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/189723/image/small",
+    "date": "27/04/25",
+    "time": "09:00",
+    "round": 15
+  },
+  {
+    "homeTeam": "Central Córdoba",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/65676/image/small",
+    "awayTeam": "Ind. Rivadavia",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/36842/image/small",
+    "date": "27/04/25",
+    "time": "09:00",
+    "round": 15
+  },
+  {
+    "homeTeam": "Def y Justicia",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/36839/image/small",
+    "awayTeam": "Racing",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/3215/image/small",
+    "date": "27/04/25",
+    "time": "09:00",
+    "round": 15
+  },
+  {
+    "homeTeam": "Estudiantes",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/3206/image/small",
+    "awayTeam": "Tigre",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/7628/image/small",
+    "date": "27/04/25",
+    "time": "09:00",
+    "round": 15
+  },
+  {
+    "homeTeam": "Godoy Cruz",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/6074/image/small",
+    "awayTeam": "Atlético Tucumán",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/36833/image/small",
+    "date": "27/04/25",
+    "time": "09:00",
+    "round": 15
+  },
+  {
+    "homeTeam": "Instituto",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/4937/image/small",
+    "awayTeam": "Sarmiento",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/42338/image/small",
+    "date": "27/04/25",
+    "time": "09:00",
+    "round": 15
+  },
+  {
+    "homeTeam": "Lanús",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/3218/image/small",
+    "awayTeam": "San Martín",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/7772/image/small",
+    "date": "27/04/25",
+    "time": "09:00",
+    "round": 15
+  },
+  {
+    "homeTeam": "Newell's",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/3212/image/small",
+    "awayTeam": "Huracán",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/7629/image/small",
+    "date": "27/04/25",
+    "time": "09:00",
+    "round": 15
+  },
+  {
+    "homeTeam": "Platense",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/36837/image/small",
+    "awayTeam": "Talleres",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/3210/image/small",
+    "date": "27/04/25",
+    "time": "09:00",
+    "round": 15
+  },
+  {
+    "homeTeam": "River",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/3211/image/small",
+    "awayTeam": "Boca Juniors",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/3202/image/small",
+    "date": "27/04/25",
+    "time": "09:00",
+    "round": 15
+  },
+  {
+    "homeTeam": "San Lorenzo",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/3201/image/small",
+    "awayTeam": "Rosario Central",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/3217/image/small",
+    "date": "27/04/25",
+    "time": "09:00",
+    "round": 15
+  },
+  {
+    "homeTeam": "Vélez Sarsfield",
+    "homeTeamImg": "https://img.sofascore.com/api/v1/team/3208/image/small",
+    "awayTeam": "Gimnasia",
+    "awayTeamImg": "https://img.sofascore.com/api/v1/team/3205/image/small",
+    "date": "27/04/25",
+    "time": "09:00",
+    "round": 15
+  }
+]
