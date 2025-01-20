@@ -1,0 +1,402 @@
+[
+  {
+    "position": "1",
+    "teamName": "Liverpool",
+    "teamImg": "https://api.promiedos.com.ar/images/team/bai/4",
+    "points": "50",
+    "played": "21",
+    "goals": "50:20",
+    "goalDiff": "30",
+    "wins": "15",
+    "draws": "5",
+    "losses": "1",
+    "status": "none",
+    "lastMatches": [
+      "V",
+      "E",
+      "E",
+      "V",
+      "V"
+    ]
+  },
+  {
+    "position": "2",
+    "teamName": "Arsenal",
+    "teamImg": "https://api.promiedos.com.ar/images/team/bae/4",
+    "points": "44",
+    "played": "22",
+    "goals": "43:21",
+    "goalDiff": "22",
+    "wins": "12",
+    "draws": "8",
+    "losses": "2",
+    "status": "none",
+    "lastMatches": [
+      "E",
+      "V",
+      "E",
+      "V",
+      "V"
+    ]
+  },
+  {
+    "position": "3",
+    "teamName": "Forest",
+    "teamImg": "https://api.promiedos.com.ar/images/team/cj/4",
+    "points": "44",
+    "played": "22",
+    "goals": "33:22",
+    "goalDiff": "11",
+    "wins": "13",
+    "draws": "5",
+    "losses": "4",
+    "status": "none",
+    "lastMatches": [
+      "V",
+      "E",
+      "V",
+      "V",
+      "V"
+    ]
+  },
+  {
+    "position": "4",
+    "teamName": "Man City",
+    "teamImg": "https://api.promiedos.com.ar/images/team/bba/4",
+    "points": "38",
+    "played": "22",
+    "goals": "44:29",
+    "goalDiff": "15",
+    "wins": "11",
+    "draws": "5",
+    "losses": "6",
+    "status": "none",
+    "lastMatches": [
+      "V",
+      "E",
+      "V",
+      "V",
+      "E"
+    ]
+  },
+  {
+    "position": "5",
+    "teamName": "Chelsea",
+    "teamImg": "https://api.promiedos.com.ar/images/team/bag/4",
+    "points": "38",
+    "played": "22",
+    "goals": "41:26",
+    "goalDiff": "15",
+    "wins": "10",
+    "draws": "8",
+    "losses": "4",
+    "status": "none",
+    "lastMatches": [
+      "E",
+      "E",
+      "D",
+      "D",
+      "E"
+    ]
+  },
+  {
+    "position": "6",
+    "teamName": "Newcastle",
+    "teamImg": "https://api.promiedos.com.ar/images/team/bbg/4",
+    "points": "38",
+    "played": "22",
+    "goals": "38:26",
+    "goalDiff": "12",
+    "wins": "11",
+    "draws": "5",
+    "losses": "6",
+    "status": "none",
+    "lastMatches": [
+      "D",
+      "V",
+      "V",
+      "V",
+      "V"
+    ]
+  },
+  {
+    "position": "7",
+    "teamName": "Bournemouth",
+    "teamImg": "https://api.promiedos.com.ar/images/team/fa/4",
+    "points": "37",
+    "played": "22",
+    "goals": "36:26",
+    "goalDiff": "10",
+    "wins": "10",
+    "draws": "7",
+    "losses": "5",
+    "status": "none",
+    "lastMatches": [
+      "V",
+      "E",
+      "V",
+      "E",
+      "E"
+    ]
+  },
+  {
+    "position": "8",
+    "teamName": "Aston Villa",
+    "teamImg": "https://api.promiedos.com.ar/images/team/baj/4",
+    "points": "36",
+    "played": "22",
+    "goals": "33:34",
+    "goalDiff": "-1",
+    "wins": "10",
+    "draws": "6",
+    "losses": "6",
+    "status": "none",
+    "lastMatches": [
+      "E",
+      "V",
+      "V",
+      "E",
+      "D"
+    ]
+  },
+  {
+    "position": "9",
+    "teamName": "Brighton",
+    "teamImg": "https://api.promiedos.com.ar/images/team/di/4",
+    "points": "34",
+    "played": "22",
+    "goals": "35:30",
+    "goalDiff": "5",
+    "wins": "8",
+    "draws": "10",
+    "losses": "4",
+    "status": "none",
+    "lastMatches": [
+      "V",
+      "V",
+      "E",
+      "E",
+      "E"
+    ]
+  },
+  {
+    "position": "10",
+    "teamName": "Fulham",
+    "teamImg": "https://api.promiedos.com.ar/images/team/bca/4",
+    "points": "33",
+    "played": "22",
+    "goals": "34:30",
+    "goalDiff": "4",
+    "wins": "8",
+    "draws": "9",
+    "losses": "5",
+    "status": "none",
+    "lastMatches": [
+      "V",
+      "D",
+      "E",
+      "E",
+      "V"
+    ]
+  },
+  {
+    "position": "11",
+    "teamName": "Brentford",
+    "teamImg": "https://api.promiedos.com.ar/images/team/gd/4",
+    "points": "28",
+    "played": "22",
+    "goals": "40:39",
+    "goalDiff": "1",
+    "wins": "8",
+    "draws": "4",
+    "losses": "10",
+    "status": "none",
+    "lastMatches": [
+      "D",
+      "E",
+      "V",
+      "D",
+      "E"
+    ]
+  },
+  {
+    "position": "12",
+    "teamName": "Palace",
+    "teamImg": "https://api.promiedos.com.ar/images/team/ba/4",
+    "points": "27",
+    "played": "22",
+    "goals": "25:28",
+    "goalDiff": "-3",
+    "wins": "6",
+    "draws": "9",
+    "losses": "7",
+    "status": "none",
+    "lastMatches": [
+      "V",
+      "V",
+      "E",
+      "V",
+      "E"
+    ]
+  },
+  {
+    "position": "13",
+    "teamName": "Man Utd",
+    "teamImg": "https://api.promiedos.com.ar/images/team/baf/4",
+    "points": "26",
+    "played": "22",
+    "goals": "27:32",
+    "goalDiff": "-5",
+    "wins": "7",
+    "draws": "5",
+    "losses": "10",
+    "status": "none",
+    "lastMatches": [
+      "D",
+      "V",
+      "E",
+      "D",
+      "D"
+    ]
+  },
+  {
+    "position": "14",
+    "teamName": "West Ham",
+    "teamImg": "https://api.promiedos.com.ar/images/team/bbd/4",
+    "points": "26",
+    "played": "22",
+    "goals": "27:43",
+    "goalDiff": "-16",
+    "wins": "7",
+    "draws": "5",
+    "losses": "10",
+    "status": "none",
+    "lastMatches": [
+      "D",
+      "V",
+      "D",
+      "D",
+      "V"
+    ]
+  },
+  {
+    "position": "15",
+    "teamName": "Tottenham",
+    "teamImg": "https://api.promiedos.com.ar/images/team/bbe/4",
+    "points": "24",
+    "played": "22",
+    "goals": "45:35",
+    "goalDiff": "10",
+    "wins": "7",
+    "draws": "3",
+    "losses": "12",
+    "status": "none",
+    "lastMatches": [
+      "D",
+      "D",
+      "D",
+      "E",
+      "D"
+    ]
+  },
+  {
+    "position": "16",
+    "teamName": "Everton",
+    "teamImg": "https://api.promiedos.com.ar/images/team/bah/4",
+    "points": "20",
+    "played": "21",
+    "goals": "18:28",
+    "goalDiff": "-10",
+    "wins": "4",
+    "draws": "8",
+    "losses": "9",
+    "status": "none",
+    "lastMatches": [
+      "V",
+      "D",
+      "D",
+      "D",
+      "E"
+    ]
+  },
+  {
+    "position": "17",
+    "teamName": "Wolves",
+    "teamImg": "https://api.promiedos.com.ar/images/team/bf/4",
+    "points": "17",
+    "played": "22",
+    "goals": "31:48",
+    "goalDiff": "-17",
+    "wins": "4",
+    "draws": "5",
+    "losses": "13",
+    "status": "none",
+    "lastMatches": [
+      "D",
+      "D",
+      "E",
+      "V",
+      "V"
+    ]
+  },
+  {
+    "position": "18",
+    "teamName": "Ipswich",
+    "teamImg": "https://api.promiedos.com.ar/images/team/j/4",
+    "points": "16",
+    "played": "22",
+    "goals": "20:43",
+    "goalDiff": "-23",
+    "wins": "3",
+    "draws": "7",
+    "losses": "12",
+    "status": "none",
+    "lastMatches": [
+      "D",
+      "D",
+      "E",
+      "V",
+      "D"
+    ]
+  },
+  {
+    "position": "19",
+    "teamName": "Leicester",
+    "teamImg": "https://api.promiedos.com.ar/images/team/cc/4",
+    "points": "14",
+    "played": "22",
+    "goals": "23:48",
+    "goalDiff": "-25",
+    "wins": "3",
+    "draws": "5",
+    "losses": "14",
+    "status": "none",
+    "lastMatches": [
+      "D",
+      "D",
+      "D",
+      "D",
+      "D"
+    ]
+  },
+  {
+    "position": "20",
+    "teamName": "Southampton",
+    "teamImg": "https://api.promiedos.com.ar/images/team/cb/4",
+    "points": "6",
+    "played": "22",
+    "goals": "15:50",
+    "goalDiff": "-35",
+    "wins": "1",
+    "draws": "3",
+    "losses": "18",
+    "status": "none",
+    "lastMatches": [
+      "D",
+      "D",
+      "D",
+      "D",
+      "D"
+    ]
+  }
+]

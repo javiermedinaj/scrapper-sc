@@ -1,0 +1,86 @@
+{
+  "Serie Rio de la Plata": [
+    {
+      "league": "Serie Rio de la Plata",
+      "homeTeam": "Nacional",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/hehi/1",
+      "awayTeam": "Peñarol",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/hhgg/1",
+      "time": "21:00",
+      "score": null,
+      "status": "SCHEDULED",
+      "date": "lunes 20 de enero de 2025",
+      "tvNetwork": "Disney+ Premium"
+    }
+  ],
+  "Premier League": [
+    {
+      "league": "Premier League",
+      "homeTeam": "Chelsea",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/bag/1",
+      "awayTeam": "Wolves",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/bf/1",
+      "time": "51'",
+      "score": "1-1",
+      "status": "LIVE",
+      "date": "lunes 20 de enero de 2025",
+      "tvNetwork": "ESPN HD Latin"
+    }
+  ],
+  "LaLiga": [
+    {
+      "league": "LaLiga",
+      "homeTeam": "Villarreal CF",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/bdd/1",
+      "awayTeam": "RCD Mallorca",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/bec/1",
+      "time": "53'",
+      "score": "4-0",
+      "status": "LIVE",
+      "date": "lunes 20 de enero de 2025",
+      "tvNetwork": "ESPN 2"
+    }
+  ],
+  "Serie A": [
+    {
+      "league": "Serie A",
+      "homeTeam": "Como",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/gbbh/1",
+      "awayTeam": "Udinese",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/ccj/1",
+      "time": "66'",
+      "score": null,
+      "status": "LIVE",
+      "date": "lunes 20 de enero de 2025",
+      "tvNetwork": "Disney+ Premium"
+    }
+  ],
+  "Primeira Liga": [
+    {
+      "league": "Primeira Liga",
+      "homeTeam": "Boavista",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/ijg/1",
+      "awayTeam": "Casa Pia AC",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/gdhc/1",
+      "time": "ET",
+      "score": "1-2",
+      "status": "LIVE",
+      "date": "lunes 20 de enero de 2025",
+      "tvNetwork": null
+    }
+  ],
+  "Liga MX": [
+    {
+      "league": "Liga MX",
+      "homeTeam": "Pachuca",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/bcfa/1",
+      "awayTeam": "Santos Laguna",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/bcfe/1",
+      "time": "22:00",
+      "score": null,
+      "status": "SCHEDULED",
+      "date": "lunes 20 de enero de 2025",
+      "tvNetwork": null
+    }
+  ]
+}
