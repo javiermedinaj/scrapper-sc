@@ -3,7 +3,7 @@ import fs from 'fs';
 import path from 'path';
 
 const ROUNDS = 16;
-const OUTPUT_DIR = './matches';
+const OUTPUT_DIR = './matches_arg';
 const DELAY = 2000; 
 
 if (!fs.existsSync(OUTPUT_DIR)) {
