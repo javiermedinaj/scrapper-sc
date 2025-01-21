@@ -1,4 +1,3 @@
-//https://www.promiedos.com.ar/league/premier-league/h
 import puppeteer from 'puppeteer';
 import fs from 'fs';
 import path from 'path';
@@ -21,7 +20,6 @@ async function scrapeTable() {
     await page.waitForSelector('.table_table__LTgjZ', { timeout: 30000 });
 
     const tableData = await page.evaluate(() => {
-      // Select only the first 20 rows (teams)
       const rows = Array.from(document.querySelectorAll('.table_table__LTgjZ tbody tr')).slice(0, 20);
       const data = [];
 

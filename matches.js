@@ -23,7 +23,8 @@ async function scrapeMatches() {
     const DATE = formatDate(new Date());
     await page.goto(`https://www.promiedos.com.ar/games/${DATE}`, {
       waitUntil: 'networkidle0',
-      timeout: 30000
+      timeout: 10000,
+      headless: true,
     });
 
     const pageDate = await page.evaluate(() => {

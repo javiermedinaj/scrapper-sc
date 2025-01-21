@@ -6,7 +6,6 @@ const OUTPUT_DIR = './matches_premier';
 const DELAY = 2000;
 const TOTAL_FECHAS = 38;
 
-// Crear directorio de salida si no existe
 if (!fs.existsSync(OUTPUT_DIR)) {
   fs.mkdirSync(OUTPUT_DIR);
 }
@@ -69,11 +68,9 @@ async function scrapeMatches(page) {
 
     await delay(DELAY);
 
-    // Seleccionar Fecha 1
     const fecha1ButtonSelector = 'button.select-trigger_button__ZuHhB';
     const fechaButtons = await page.$$(fecha1ButtonSelector);
 
-    // Encontrar el botón con texto 'Fecha 1'
     for (const button of fechaButtons) {
       const buttonText = await page.evaluate(el => el.textContent.trim(), button);
       if (buttonText.startsWith('Fecha 1')) {
@@ -96,7 +93,6 @@ async function scrapeMatches(page) {
       const filename = path.join(OUTPUT_DIR, `fecha${i}.json`);
       fs.writeFileSync(filename, JSON.stringify(matches, null, 2), 'utf8');
 
-      // Hacer clic en el botón de siguiente fecha si no es la última
       if (i < TOTAL_FECHAS) {
         const nextButtonSelector = 'button.select-trigger_chevron__VwFj9:last-child';
         const nextButton = await page.$(nextButtonSelector);
@@ -104,8 +100,6 @@ async function scrapeMatches(page) {
         if (nextButton) {
           await nextButton.click();
           await delay(DELAY);
-
-          // Esperar a que la nueva fecha cargue
           await page.waitForSelector('.item_item__BqOgz', { timeout: 60000 });
           await delay(DELAY);
         } else {

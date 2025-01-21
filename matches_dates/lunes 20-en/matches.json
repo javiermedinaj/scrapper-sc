@@ -20,11 +20,10 @@
       "homeTeamImg": "https://api.promiedos.com.ar/images/team/bag/1",
       "awayTeam": "Wolves",
       "awayTeamImg": "https://api.promiedos.com.ar/images/team/bf/1",
-      "time": "51'",
-      "score": "1-1",
-      "status": "LIVE",
+      "score": "3-1",
+      "status": "SCHEDULED",
       "date": "lunes 20 de enero de 2025",
-      "tvNetwork": "ESPN HD Latin"
+      "tvNetwork": null
     }
   ],
   "LaLiga": [
@@ -34,11 +33,10 @@
       "homeTeamImg": "https://api.promiedos.com.ar/images/team/bdd/1",
       "awayTeam": "RCD Mallorca",
       "awayTeamImg": "https://api.promiedos.com.ar/images/team/bec/1",
-      "time": "53'",
       "score": "4-0",
-      "status": "LIVE",
+      "status": "SCHEDULED",
       "date": "lunes 20 de enero de 2025",
-      "tvNetwork": "ESPN 2"
+      "tvNetwork": null
     }
   ],
   "Serie A": [
@@ -48,11 +46,10 @@
       "homeTeamImg": "https://api.promiedos.com.ar/images/team/gbbh/1",
       "awayTeam": "Udinese",
       "awayTeamImg": "https://api.promiedos.com.ar/images/team/ccj/1",
-      "time": "66'",
       "score": null,
-      "status": "LIVE",
+      "status": "SCHEDULED",
       "date": "lunes 20 de enero de 2025",
-      "tvNetwork": "Disney+ Premium"
+      "tvNetwork": null
     }
   ],
   "Primeira Liga": [
@@ -62,9 +59,8 @@
       "homeTeamImg": "https://api.promiedos.com.ar/images/team/ijg/1",
       "awayTeam": "Casa Pia AC",
       "awayTeamImg": "https://api.promiedos.com.ar/images/team/gdhc/1",
-      "time": "ET",
-      "score": "1-2",
-      "status": "LIVE",
+      "score": null,
+      "status": "SCHEDULED",
       "date": "lunes 20 de enero de 2025",
       "tvNetwork": null
     }

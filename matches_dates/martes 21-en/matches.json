@@ -1,0 +1,175 @@
+{
+  "Amistosos de Verano": [
+    {
+      "league": "Amistosos de Verano",
+      "homeTeam": "River Plate",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/igi/1",
+      "awayTeam": "México",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/fbag/1",
+      "time": "21:00",
+      "score": null,
+      "status": "SCHEDULED",
+      "date": "martes 21 de enero de 2025",
+      "tvNetwork": "Disney+ Premium"
+    },
+    {
+      "league": "Amistosos de Verano",
+      "homeTeam": "Deportivo Morón",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/hbba/1",
+      "awayTeam": "Alianza Lima",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/hcia/1",
+      "time": "21:00",
+      "score": null,
+      "status": "SCHEDULED",
+      "date": "martes 21 de enero de 2025",
+      "tvNetwork": null
+    }
+  ],
+  "Champions League": [
+    {
+      "league": "Champions League",
+      "homeTeam": "Monaco",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/ehb/1",
+      "awayTeam": "Aston Villa",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/baj/1",
+      "score": "1-0",
+      "status": "SCHEDULED",
+      "date": "martes 21 de enero de 2025",
+      "tvNetwork": null
+    },
+    {
+      "league": "Champions League",
+      "homeTeam": "Atalanta",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/cdc/1",
+      "awayTeam": "Sturm Graz",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/bheb/1",
+      "score": "5-0",
+      "status": "SCHEDULED",
+      "date": "martes 21 de enero de 2025",
+      "tvNetwork": null
+    },
+    {
+      "league": "Champions League",
+      "homeTeam": "Slovan Bratislava",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/cbbc/1",
+      "awayTeam": "Stuttgart",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/ddi/1",
+      "time": "80'",
+      "score": "0-2",
+      "status": "LIVE",
+      "date": "martes 21 de enero de 2025",
+      "tvNetwork": "Flow Eventos HD"
+    },
+    {
+      "league": "Champions League",
+      "homeTeam": "Estrella Roja Belgrado",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/ijfh/1",
+      "awayTeam": "PSV Eindhoven",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/hcf/1",
+      "time": "80'",
+      "score": "2-3",
+      "status": "LIVE",
+      "date": "martes 21 de enero de 2025",
+      "tvNetwork": "ESPN 4"
+    },
+    {
+      "league": "Champions League",
+      "homeTeam": "Liverpool",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/bai/1",
+      "awayTeam": "Lille",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/ehi/1",
+      "time": "83'",
+      "score": "2-1",
+      "status": "LIVE",
+      "date": "martes 21 de enero de 2025",
+      "tvNetwork": "FOX Sports 2 Cono Sur"
+    },
+    {
+      "league": "Champions League",
+      "homeTeam": "Brujas",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/bbgj/1",
+      "awayTeam": "Juventus",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/ccg/1",
+      "time": "84'",
+      "score": "0-0",
+      "status": "LIVE",
+      "date": "martes 21 de enero de 2025",
+      "tvNetwork": "ESPN 2"
+    },
+    {
+      "league": "Champions League",
+      "homeTeam": "Bologna",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/cef/1",
+      "awayTeam": "Dortmund",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/deb/1",
+      "time": "84'",
+      "score": "2-1",
+      "status": "LIVE",
+      "date": "martes 21 de enero de 2025",
+      "tvNetwork": "ESPN3 Sudamérica"
+    },
+    {
+      "league": "Champions League",
+      "homeTeam": "Atlético de Madrid",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/bde/1",
+      "awayTeam": "Bayer Leverkusen",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/ddd/1",
+      "time": "79'",
+      "score": null,
+      "status": "LIVE",
+      "date": "martes 21 de enero de 2025",
+      "tvNetwork": "Fox Sports"
+    },
+    {
+      "league": "Champions League",
+      "homeTeam": "Benfica",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/iii/1",
+      "awayTeam": "FC Barcelona",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/bdc/1",
+      "time": "81'",
+      "score": "4-3",
+      "status": "LIVE",
+      "date": "martes 21 de enero de 2025",
+      "tvNetwork": "ESPN HD Latin"
+    }
+  ],
+  "Serie Rio de la Plata": [
+    {
+      "league": "Serie Rio de la Plata",
+      "homeTeam": "Colón",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/iha/1",
+      "awayTeam": "Racing Club Montevideo",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/haih/1",
+      "time": "20:00",
+      "score": null,
+      "status": "SCHEDULED",
+      "date": "martes 21 de enero de 2025",
+      "tvNetwork": "Disney+ Premium"
+    },
+    {
+      "league": "Serie Rio de la Plata",
+      "homeTeam": "Defensor Sporting",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/hgdj/1",
+      "awayTeam": "Instituto",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/hchc/1",
+      "time": "22:00",
+      "score": null,
+      "status": "SCHEDULED",
+      "date": "martes 21 de enero de 2025",
+      "tvNetwork": "Disney+ Premium"
+    }
+  ],
+  "UEFA Europa League": [
+    {
+      "league": "UEFA Europa League",
+      "homeTeam": "Galatasaray",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/jef/1",
+      "awayTeam": "Dinamo Kiev",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/bjfg/1",
+      "score": "3-3",
+      "status": "SCHEDULED",
+      "date": "martes 21 de enero de 2025",
+      "tvNetwork": null
+    }
+  ]
+}
