@@ -4,7 +4,7 @@ import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const OUTPUT_DIR = join(__dirname, './data');
+const OUTPUT_DIR = join(__dirname, '../matches_arg/tables');
 
 async function ensureDirectoryExists(dirPath) {
   try {

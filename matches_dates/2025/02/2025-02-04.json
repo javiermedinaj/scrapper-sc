@@ -1,0 +1,202 @@
+{
+  "Liga Profesional Argentina": [
+    {
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Godoy Cruz",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/ihd/1",
+      "awayTeam": "Talleres de Córdoba",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/jche/1",
+      "time": "19:00",
+      "score": null,
+      "status": "SCHEDULED",
+      "date": "2025-02-04",
+      "tvNetwork": "ESPN"
+    },
+    {
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Atlético Tucumán",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/gbfc/1",
+      "awayTeam": "Deportivo Riestra",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/bbjea/1",
+      "time": "21:00",
+      "score": null,
+      "status": "SCHEDULED",
+      "date": "2025-02-04",
+      "tvNetwork": null
+    }
+  ],
+  "Copa Libertadores": [
+    {
+      "league": "Copa Libertadores",
+      "homeTeam": "Monagas SC",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/ihab/1",
+      "awayTeam": "Defensor Sporting",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/hgdj/1",
+      "time": "21:30",
+      "score": null,
+      "status": "SCHEDULED",
+      "date": "2025-02-04",
+      "tvNetwork": "Fox Sports"
+    }
+  ],
+  "Sudamericano Sub20": [
+    {
+      "league": "Sudamericano Sub20",
+      "homeTeam": "Chile Sub20",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/fehg/1",
+      "awayTeam": "Argentina Sub20",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/baaff/1",
+      "time": "17:00",
+      "score": null,
+      "status": "SCHEDULED",
+      "date": "2025-02-04",
+      "tvNetwork": "dgo directv"
+    },
+    {
+      "league": "Sudamericano Sub20",
+      "homeTeam": "Uruguay Sub20",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/fehh/1",
+      "awayTeam": "Brasil Sub20",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/baafh/1",
+      "time": "19:30",
+      "score": null,
+      "status": "SCHEDULED",
+      "date": "2025-02-04",
+      "tvNetwork": "dgo directv"
+    },
+    {
+      "league": "Sudamericano Sub20",
+      "homeTeam": "Colombia Sub20",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/baafg/1",
+      "awayTeam": "Paraguay Sub20",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/gcaa/1",
+      "time": "22:00",
+      "score": null,
+      "status": "SCHEDULED",
+      "date": "2025-02-04",
+      "tvNetwork": "dgo directv"
+    }
+  ],
+  "Campeonato Femenino": [
+    {
+      "league": "Campeonato Femenino",
+      "homeTeam": "Huracán (F)",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/ceeeg/1",
+      "awayTeam": "Ferro Carril Oeste (F)",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/ceedd/1",
+      "time": "17:00",
+      "score": null,
+      "status": "SCHEDULED",
+      "date": "2025-02-04",
+      "tvNetwork": null
+    }
+  ],
+  "CONCACAF Copa de Campeones": [
+    {
+      "league": "CONCACAF Copa de Campeones",
+      "homeTeam": "Real Hope FA",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/fhjbb/1",
+      "awayTeam": "Cruz Azul",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/bcgb/1",
+      "time": "22:00",
+      "score": null,
+      "status": "SCHEDULED",
+      "date": "2025-02-04",
+      "tvNetwork": "Disney+ Premium"
+    }
+  ],
+  "Copa del Rey": [
+    {
+      "league": "Copa del Rey",
+      "homeTeam": "Atlético de Madrid",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/bde/1",
+      "awayTeam": "Getafe CF",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/bea/1",
+      "time": "17:30",
+      "score": null,
+      "status": "SCHEDULED",
+      "date": "2025-02-04",
+      "tvNetwork": "dgo directv"
+    }
+  ],
+  "Copa Italia": [
+    {
+      "league": "Copa Italia",
+      "homeTeam": "Atalanta",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/cdc/1",
+      "awayTeam": "Bologna",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/cef/1",
+      "time": "17:00",
+      "score": null,
+      "status": "SCHEDULED",
+      "date": "2025-02-04",
+      "tvNetwork": "Fox Sports"
+    }
+  ],
+  "DFB-Pokal": [
+    {
+      "league": "DFB-Pokal",
+      "homeTeam": "Stuttgart",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/ddi/1",
+      "awayTeam": "FC Augsburg",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/dfi/1",
+      "time": "16:45",
+      "score": null,
+      "status": "SCHEDULED",
+      "date": "2025-02-04",
+      "tvNetwork": "Disney+ Premium"
+    }
+  ],
+  "Copa de Francia": [
+    {
+      "league": "Copa de Francia",
+      "homeTeam": "Troyes",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/eii/1",
+      "awayTeam": "Brest",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/fde/1",
+      "time": "15:00",
+      "score": null,
+      "status": "SCHEDULED",
+      "date": "2025-02-04",
+      "tvNetwork": null
+    },
+    {
+      "league": "Copa de Francia",
+      "homeTeam": "Lille",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/ehi/1",
+      "awayTeam": "Dunkerque",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/fcc/1",
+      "time": "15:00",
+      "score": null,
+      "status": "SCHEDULED",
+      "date": "2025-02-04",
+      "tvNetwork": null
+    },
+    {
+      "league": "Copa de Francia",
+      "homeTeam": "Le Mans",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/egi/1",
+      "awayTeam": "PSG",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/eia/1",
+      "time": "17:10",
+      "score": null,
+      "status": "SCHEDULED",
+      "date": "2025-02-04",
+      "tvNetwork": "dgo directv"
+    }
+  ],
+  "Liga BetPlay": [
+    {
+      "league": "Liga BetPlay",
+      "homeTeam": "Llaneros FC",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/badhi/1",
+      "awayTeam": "Union Magdalena",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/jidc/1",
+      "time": "68'",
+      "score": "2-0",
+      "status": "LIVE",
+      "date": "2025-02-04",
+      "tvNetwork": null
+    }
+  ]
+}

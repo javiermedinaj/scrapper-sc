@@ -1,0 +1,184 @@
+{
+  "Liga Profesional Argentina": [
+    {
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Defensa y Justicia",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/hcbh/1",
+      "awayTeam": "Central Córdoba SdE",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/beafh/1",
+      "score": "2-1",
+      "status": "SCHEDULED",
+      "date": "2025-02-03",
+      "tvNetwork": null
+    },
+    {
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Tigre",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/iid/1",
+      "awayTeam": "Unión de Santa Fe",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/hcag/1",
+      "score": "1-0",
+      "status": "SCHEDULED",
+      "date": "2025-02-03",
+      "tvNetwork": null
+    },
+    {
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Estudiantes de La Plata",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/igh/1",
+      "awayTeam": "Racing Club",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/ihg/1",
+      "score": "2-0",
+      "status": "SCHEDULED",
+      "date": "2025-02-03",
+      "tvNetwork": null
+    },
+    {
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Belgrano",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/fhid/1",
+      "awayTeam": "Independiente Rivadavia",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/hcch/1",
+      "score": "0-3",
+      "status": "SCHEDULED",
+      "date": "2025-02-03",
+      "tvNetwork": null
+    },
+    {
+      "league": "Liga Profesional Argentina",
+      "homeTeam": "Argentinos Juniors",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/ihb/1",
+      "awayTeam": "Platense",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/hcah/1",
+      "score": "1-0",
+      "status": "SCHEDULED",
+      "date": "2025-02-03",
+      "tvNetwork": null
+    }
+  ],
+  "Premier League": [
+    {
+      "league": "Premier League",
+      "homeTeam": "Chelsea",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/bag/1",
+      "awayTeam": "West Ham",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/bbd/1",
+      "score": "2-1",
+      "status": "SCHEDULED",
+      "date": "2025-02-03",
+      "tvNetwork": null
+    }
+  ],
+  "LaLiga": [
+    {
+      "league": "LaLiga",
+      "homeTeam": "Girona FC",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/bhf/1",
+      "awayTeam": "Las Palmas",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/bgh/1",
+      "score": "2-1",
+      "status": "SCHEDULED",
+      "date": "2025-02-03",
+      "tvNetwork": null
+    }
+  ],
+  "Serie A": [
+    {
+      "league": "Serie A",
+      "homeTeam": "Cagliari",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/ced/1",
+      "awayTeam": "Lazio",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/cdg/1",
+      "score": "1-2",
+      "status": "SCHEDULED",
+      "date": "2025-02-03",
+      "tvNetwork": null
+    }
+  ],
+  "Primeira Liga": [
+    {
+      "league": "Primeira Liga",
+      "homeTeam": "Moreirense",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/hfhd/1",
+      "awayTeam": "SC Braga",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/ijf/1",
+      "score": "1-2",
+      "status": "SCHEDULED",
+      "date": "2025-02-03",
+      "tvNetwork": null
+    },
+    {
+      "league": "Primeira Liga",
+      "homeTeam": "Rio Ave",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/jae/1",
+      "awayTeam": "FC Porto",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/iih/1",
+      "score": null,
+      "status": "SCHEDULED",
+      "date": "2025-02-03",
+      "tvNetwork": null
+    }
+  ],
+  "Liga AUF Uruguaya": [
+    {
+      "league": "Liga AUF Uruguaya",
+      "homeTeam": "Cerro",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/hehh/1",
+      "awayTeam": "CA River Plate",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/igbc/1",
+      "score": "1-1",
+      "status": "SCHEDULED",
+      "date": "2025-02-03",
+      "tvNetwork": null
+    }
+  ],
+  "Copa de Primera": [
+    {
+      "league": "Copa de Primera",
+      "homeTeam": "2 de Mayo",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/begec/1",
+      "awayTeam": "Club Guaraní",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/hhdj/1",
+      "score": "0-2",
+      "status": "SCHEDULED",
+      "date": "2025-02-03",
+      "tvNetwork": null
+    },
+    {
+      "league": "Copa de Primera",
+      "homeTeam": "Olimpia",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/ifei/1",
+      "awayTeam": "Atlético Tembetary",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/fgfjc/1",
+      "score": "3-0",
+      "status": "SCHEDULED",
+      "date": "2025-02-03",
+      "tvNetwork": null
+    }
+  ],
+  "Liga BetPlay": [
+    {
+      "league": "Liga BetPlay",
+      "homeTeam": "Deportivo Pereira",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/igdi/1",
+      "awayTeam": "Alianza FC",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/bacaj/1",
+      "score": "0-0",
+      "status": "SCHEDULED",
+      "date": "2025-02-03",
+      "tvNetwork": null
+    },
+    {
+      "league": "Liga BetPlay",
+      "homeTeam": "Llaneros FC",
+      "homeTeamImg": "https://api.promiedos.com.ar/images/team/badhi/1",
+      "awayTeam": "Union Magdalena",
+      "awayTeamImg": "https://api.promiedos.com.ar/images/team/jidc/1",
+      "time": "54'",
+      "score": "2-0",
+      "status": "LIVE",
+      "date": "2025-02-03",
+      "tvNetwork": null
+    }
+  ]
+}

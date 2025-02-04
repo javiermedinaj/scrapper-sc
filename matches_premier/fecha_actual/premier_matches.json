@@ -1,0 +1,92 @@
+[
+  {
+    "homeTeam": "Everton",
+    "homeTeamImg": "https://resources.premierleague.com/premierleague/badges/50/t11.png",
+    "awayTeam": "Liverpool",
+    "awayTeamImg": "https://resources.premierleague.com/premierleague/badges/50/t14.png",
+    "venue": "Goodison Park, Liverpool",
+    "date": "12/2/2025",
+    "time": "16:30"
+  },
+  {
+    "homeTeam": "Brighton",
+    "homeTeamImg": "https://resources.premierleague.com/premierleague/badges/50/t36.png",
+    "awayTeam": "Chelsea",
+    "awayTeamImg": "https://resources.premierleague.com/premierleague/badges/50/t8.png",
+    "venue": "American Express Stadium, Falmer",
+    "date": "14/2/2025",
+    "time": "17:00"
+  },
+  {
+    "homeTeam": "Leicester",
+    "homeTeamImg": "https://resources.premierleague.com/premierleague/badges/50/t13.png",
+    "awayTeam": "Arsenal",
+    "awayTeamImg": "https://resources.premierleague.com/premierleague/badges/50/t3.png",
+    "venue": "King Power Stadium, Leicester",
+    "date": "15/2/2025",
+    "time": "09:30"
+  },
+  {
+    "homeTeam": "Aston Villa",
+    "homeTeamImg": "https://resources.premierleague.com/premierleague/badges/50/t7.png",
+    "awayTeam": "Ipswich",
+    "awayTeamImg": "https://resources.premierleague.com/premierleague/badges/50/t40.png",
+    "venue": "Villa Park, Birmingham",
+    "date": "15/2/2025",
+    "time": "12:00"
+  },
+  {
+    "homeTeam": "Fulham",
+    "homeTeamImg": "https://resources.premierleague.com/premierleague/badges/50/t54.png",
+    "awayTeam": "Nott'm Forest",
+    "awayTeamImg": "https://resources.premierleague.com/premierleague/badges/50/t17.png",
+    "venue": "Craven Cottage, London",
+    "date": "15/2/2025",
+    "time": "12:00"
+  },
+  {
+    "homeTeam": "Man City",
+    "homeTeamImg": "https://resources.premierleague.com/premierleague/badges/50/t43.png",
+    "awayTeam": "Newcastle",
+    "awayTeamImg": "https://resources.premierleague.com/premierleague/badges/50/t4.png",
+    "venue": "Etihad Stadium, Manchester",
+    "date": "15/2/2025",
+    "time": "12:00"
+  },
+  {
+    "homeTeam": "Southampton",
+    "homeTeamImg": "https://resources.premierleague.com/premierleague/badges/50/t20.png",
+    "awayTeam": "Bournemouth",
+    "awayTeamImg": "https://resources.premierleague.com/premierleague/badges/50/t91.png",
+    "venue": "St. Mary's Stadium, Southampton",
+    "date": "15/2/2025",
+    "time": "12:00"
+  },
+  {
+    "homeTeam": "West Ham",
+    "homeTeamImg": "https://resources.premierleague.com/premierleague/badges/50/t21.png",
+    "awayTeam": "Brentford",
+    "awayTeamImg": "https://resources.premierleague.com/premierleague/badges/50/t94.png",
+    "venue": "London Stadium, London",
+    "date": "15/2/2025",
+    "time": "12:00"
+  },
+  {
+    "homeTeam": "Crystal Palace",
+    "homeTeamImg": "https://resources.premierleague.com/premierleague/badges/50/t31.png",
+    "awayTeam": "Everton",
+    "awayTeamImg": "https://resources.premierleague.com/premierleague/badges/50/t11.png",
+    "venue": "Selhurst Park, London",
+    "date": "15/2/2025",
+    "time": "14:30"
+  },
+  {
+    "homeTeam": "Liverpool",
+    "homeTeamImg": "https://resources.premierleague.com/premierleague/badges/50/t14.png",
+    "awayTeam": "Wolves",
+    "awayTeamImg": "https://resources.premierleague.com/premierleague/badges/50/t39.png",
+    "venue": "Anfield, Liverpool",
+    "date": "16/2/2025",
+    "time": "11:00"
+  }
+]

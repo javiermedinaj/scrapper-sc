@@ -1,105 +1,118 @@
 [
   {
-    "date": "28/09",
+    "date": "21/09",
     "time": "Hora desconocida",
     "team1": {
-      "name": "Newcastle",
-      "image": "https://api.promiedos.com.ar/images/team/bbg/1"
-    },
-    "team2": {
-      "name": "Man City",
-      "image": "https://api.promiedos.com.ar/images/team/bba/1"
-    },
-    "result": "1-1"
-  },
-  {
-    "date": "Fecha desconocida",
-    "time": "Hora desconocida",
-    "team1": {
-      "name": "Chelsea",
-      "image": "https://api.promiedos.com.ar/images/team/bag/1"
-    },
-    "team2": {
-      "name": "Brighton",
-      "image": "https://api.promiedos.com.ar/images/team/di/1"
-    },
-    "result": "4-2"
-  },
-  {
-    "date": "Fecha desconocida",
-    "time": "Hora desconocida",
-    "team1": {
-      "name": "Brentford",
-      "image": "https://api.promiedos.com.ar/images/team/gd/1"
-    },
-    "team2": {
       "name": "West Ham",
       "image": "https://api.promiedos.com.ar/images/team/bbd/1"
     },
+    "team2": {
+      "name": "Chelsea",
+      "image": "https://api.promiedos.com.ar/images/team/bag/1"
+    },
+    "result": "0-3"
+  },
+  {
+    "date": "Fecha desconocida",
+    "time": "Hora desconocida",
+    "team1": {
+      "name": "Aston Villa",
+      "image": "https://api.promiedos.com.ar/images/team/baj/1"
+    },
+    "team2": {
+      "name": "Wolves",
+      "image": "https://api.promiedos.com.ar/images/team/bf/1"
+    },
+    "result": "3-1"
+  },
+  {
+    "date": "Fecha desconocida",
+    "time": "Hora desconocida",
+    "team1": {
+      "name": "Fulham",
+      "image": "https://api.promiedos.com.ar/images/team/bca/1"
+    },
+    "team2": {
+      "name": "Newcastle",
+      "image": "https://api.promiedos.com.ar/images/team/bbg/1"
+    },
+    "result": "3-1"
+  },
+  {
+    "date": "Fecha desconocida",
+    "time": "Hora desconocida",
+    "team1": {
+      "name": "Leicester",
+      "image": "https://api.promiedos.com.ar/images/team/cc/1"
+    },
+    "team2": {
+      "name": "Everton",
+      "image": "https://api.promiedos.com.ar/images/team/bah/1"
+    },
     "result": "1-1"
   },
   {
     "date": "Fecha desconocida",
     "time": "Hora desconocida",
     "team1": {
-      "name": "Arsenal",
-      "image": "https://api.promiedos.com.ar/images/team/bae/1"
-    },
-    "team2": {
-      "name": "Leicester",
-      "image": "https://api.promiedos.com.ar/images/team/cc/1"
-    },
-    "result": "4-2"
-  },
-  {
-    "date": "Fecha desconocida",
-    "time": "Hora desconocida",
-    "team1": {
-      "name": "Everton",
-      "image": "https://api.promiedos.com.ar/images/team/bah/1"
-    },
-    "team2": {
-      "name": "Palace",
-      "image": "https://api.promiedos.com.ar/images/team/ba/1"
-    },
-    "result": "2-1"
-  },
-  {
-    "date": "Fecha desconocida",
-    "time": "Hora desconocida",
-    "team1": {
-      "name": "Forest",
-      "image": "https://api.promiedos.com.ar/images/team/cj/1"
-    },
-    "team2": {
-      "name": "Fulham",
-      "image": "https://api.promiedos.com.ar/images/team/bca/1"
-    },
-    "result": "0-1"
-  },
-  {
-    "date": "Fecha desconocida",
-    "time": "Hora desconocida",
-    "team1": {
-      "name": "Wolves",
-      "image": "https://api.promiedos.com.ar/images/team/bf/1"
-    },
-    "team2": {
       "name": "Liverpool",
       "image": "https://api.promiedos.com.ar/images/team/bai/1"
     },
-    "result": "1-2"
+    "team2": {
+      "name": "Bournemouth",
+      "image": "https://api.promiedos.com.ar/images/team/fa/1"
+    },
+    "result": "3-0"
   },
   {
-    "date": "29/09",
+    "date": "Fecha desconocida",
     "time": "Hora desconocida",
     "team1": {
+      "name": "Southampton",
+      "image": "https://api.promiedos.com.ar/images/team/cb/1"
+    },
+    "team2": {
       "name": "Ipswich",
       "image": "https://api.promiedos.com.ar/images/team/j/1"
     },
+    "result": "1-1"
+  },
+  {
+    "date": "Fecha desconocida",
+    "time": "Hora desconocida",
+    "team1": {
+      "name": "Tottenham",
+      "image": "https://api.promiedos.com.ar/images/team/bbe/1"
+    },
     "team2": {
-      "name": "Aston Villa",
-      "image": "https://api.promiedos.com.ar/images/team/baj/1"
+      "name": "Brentford",
+      "image": "https://api.promiedos.com.ar/images/team/gd/1"
+    },
+    "result": "3-1"
+  },
+  {
+    "date": "Fecha desconocida",
+    "time": "Hora desconocida",
+    "team1": {
+      "name": "Palace",
+      "image": "https://api.promiedos.com.ar/images/team/ba/1"
+    },
+    "team2": {
+      "name": "Man Utd",
+      "image": "https://api.promiedos.com.ar/images/team/baf/1"
+    },
+    "result": "0-0"
+  },
+  {
+    "date": "22/09",
+    "time": "Hora desconocida",
+    "team1": {
+      "name": "Brighton",
+      "image": "https://api.promiedos.com.ar/images/team/di/1"
+    },
+    "team2": {
+      "name": "Forest",
+      "image": "https://api.promiedos.com.ar/images/team/cj/1"
     },
     "result": "2-2"
   },
@@ -107,26 +120,13 @@
     "date": "Fecha desconocida",
     "time": "Hora desconocida",
     "team1": {
-      "name": "Man Utd",
-      "image": "https://api.promiedos.com.ar/images/team/baf/1"
+      "name": "Man City",
+      "image": "https://api.promiedos.com.ar/images/team/bba/1"
     },
     "team2": {
-      "name": "Tottenham",
-      "image": "https://api.promiedos.com.ar/images/team/bbe/1"
+      "name": "Arsenal",
+      "image": "https://api.promiedos.com.ar/images/team/bae/1"
     },
-    "result": "0-3"
-  },
-  {
-    "date": "30/09",
-    "time": "Hora desconocida",
-    "team1": {
-      "name": "Bournemouth",
-      "image": "https://api.promiedos.com.ar/images/team/fa/1"
-    },
-    "team2": {
-      "name": "Southampton",
-      "image": "https://api.promiedos.com.ar/images/team/cb/1"
-    },
-    "result": "3-1"
+    "result": "2-2"
   }
 ]

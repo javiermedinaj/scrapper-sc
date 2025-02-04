@@ -3,12 +3,18 @@ import fs from 'fs';
 import path from 'path';
 
 const BASE_DIR = 'matches_dates';
-const formatDate = (date) => {
-  return date.toLocaleDateString('es-AR', {
-    day: '2-digit',
-    month: '2-digit',
-    year: 'numeric'
-  }).replace(/\//g, '-');
+
+const formatFullDate = (date) => {
+  const year  = date.getFullYear();
+  const month = (date.getMonth() + 1).toString().padStart(2, '0');
+  const day   = date.getDate().toString().padStart(2, '0');
+  return `${year}-${month}-${day}`;
+};
+
+const getYearMonthPath = (date) => {
+  const year  = date.getFullYear();
+  const month = (date.getMonth() + 1).toString().padStart(2, '0');
+  return path.join(BASE_DIR, `${year}`, `${month}`);
 };
 
 if (!fs.existsSync(BASE_DIR)) {
@@ -16,15 +22,15 @@ if (!fs.existsSync(BASE_DIR)) {
 }
 
 async function scrapeMatches() {
-  const browser = await puppeteer.launch({ headless: false });
+  const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
 
   try {
-    const DATE = formatDate(new Date());
-    await page.goto(`https://www.promiedos.com.ar/games/${DATE}`, {
+    const now = new Date();
+    const DATE_FOR_URL = formatFullDate(now).split('-').reverse().join('-'); 
+    await page.goto(`https://www.promiedos.com.ar/games/${DATE_FOR_URL}`, {
       waitUntil: 'networkidle0',
       timeout: 10000,
-      headless: true,
     });
 
     const pageDate = await page.evaluate(() => {
@@ -33,14 +39,6 @@ async function scrapeMatches() {
       const [_, date] = dateEl.textContent.split(',');
       return date.trim();
     });
-
-    const [day, month] = pageDate.split(' de ');
-    const dateFolder = `${day.padStart(2, '0')}-${month.substring(0, 2)}`;
-    
-    const OUTPUT_DIR = path.join(BASE_DIR, dateFolder);
-    if (!fs.existsSync(OUTPUT_DIR)) {
-      fs.mkdirSync(OUTPUT_DIR);
-    }
 
     await page.waitForSelector('.item_item__BqOgz', { timeout: 30000 });
 
@@ -81,7 +79,7 @@ async function scrapeMatches() {
       });
 
       return matchData;
-    }, pageDate);
+    }, formatFullDate(now));
 
     const matchesByLeague = matches.reduce((acc, match) => {
       if (!acc[match.league]) {
@@ -91,7 +89,12 @@ async function scrapeMatches() {
       return acc;
     }, {});
 
-    const fileName = `matches.json`;
+    const OUTPUT_DIR = getYearMonthPath(now);
+    if (!fs.existsSync(OUTPUT_DIR)) {
+      fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+    }
+
+    const fileName = `${formatFullDate(now)}.json`;
     fs.writeFileSync(
       path.join(OUTPUT_DIR, fileName),
       JSON.stringify(matchesByLeague, null, 2)

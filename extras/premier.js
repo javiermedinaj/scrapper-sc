@@ -2,7 +2,7 @@ import puppeteer from 'puppeteer';
 import fs from 'fs';
 import path from 'path';
 
-const OUTPUT_DIR = './matches';
+const OUTPUT_DIR = '../matches_premier/fecha_actual';
 const DELAY = 2000;
 
 // Create output directory if it doesn't exist
@@ -50,7 +50,7 @@ async function scrapePremierMatches(page) {
 
 (async () => {
   try {
-    const browser = await puppeteer.launch({ headless: false });
+    const browser = await puppeteer.launch({ headless: true });
     const page = await browser.newPage();
 
     await page.goto('https://www.premierleague.com/fixtures', {

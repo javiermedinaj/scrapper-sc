@@ -2,27 +2,22 @@ import { Router } from 'express';
 import { readJsonFile } from '../utils/fileReader.js';
 import { fileURLToPath } from 'url';
 import path from 'path';
-import fs from 'fs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-
 const router = Router();
+
+const FIXTURE_PATH = path.join(__dirname, '../matches_arg/all/full_fixture.json');
 
 router.get("/", (req, res) => {
   res.send("Welcome to api argentina");
 });
 
-router.get('/rounds', (req, res) => {
+router.get('/fixture', (req, res) => {
   try {
-    const rounds = [];
-    for (let round = 1; round <= 16; round++) {
-      const roundPath = path.join(__dirname, `../matches_arg/round_${round}.json`);
-      if (fs.existsSync(roundPath)) {
-        rounds.push(round);
-      }
-    }
-    res.json({ rounds });
+    const fixture = readJsonFile(FIXTURE_PATH);
+    if (!fixture) return res.status(404).json({ error: 'Fixture not found' });
+    res.json(fixture);
   } catch (error) {
     res.status(500).json({ error: error.message });
   }
@@ -31,18 +26,15 @@ router.get('/rounds', (req, res) => {
 router.get('/round/:id', (req, res) => {
   try {
     const roundId = parseInt(req.params.id);
-    
     if (isNaN(roundId) || roundId < 1 || roundId > 16) {
       return res.status(400).json({ error: 'Invalid round number' });
     }
-
-    const roundPath = path.join(__dirname, `../matches_arg/round_${roundId}.json`);
-    const roundData = readJsonFile(roundPath);
-
-    if (!roundData) {
-      return res.status(404).json({ error: `Round ${roundId} not found` });
+    const fullFixture = readJsonFile(FIXTURE_PATH);
+    if (!fullFixture || !fullFixture.rounds) {
+      return res.status(404).json({ error: 'Fixture data not found' });
     }
-
+    const roundData = fullFixture.rounds.find(round => round.round_number === roundId);
+    if (!roundData) return res.status(404).json({ error: `Round ${roundId} not found` });
     res.json(roundData);
   } catch (error) {
     res.status(500).json({ error: error.message });
